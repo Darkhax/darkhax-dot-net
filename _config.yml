@@ -1,43 +1,31 @@
-# Jekyll configuration
-
-name: Test Blog
+name: Dark's Site
 description: Software Developer
-
-# Url is currently only used only for the RSS feed in feed.xml
 url: https://darkhax-forked.github.io
-#url: http://localhost:4000
-
-# For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: '/jekyll-clean-dark'
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Tyler Hancock
+copyright: 2011-2018
 
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
-  github: streetturtle
+  github: darkhax
   stackoverflow: ''
   linkedin:
   instagram: ''
   lastfm: ''
+  twitter: 'DarkhaxDev'
   rss: feed.xml
 
-# Google Analytics key, leave blank to ignore
+# Stuff to ignore
 google_analytics_key:
-# Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
 yandex_metrica:
-
-
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
 disqus: streetturtle
 comments: false
 
