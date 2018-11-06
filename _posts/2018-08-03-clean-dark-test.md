@@ -9,7 +9,7 @@ tags:
 
  This is a test post to see how the site looks with the new theme. 
  
- ```
+ ```java
  public static void doStuff(String arg1, int arg2) {
      while (arg2 != 0) {
          arg2--;      
