@@ -3,8 +3,7 @@ layout: post
 title: CraftTweaker Support
 description: Basics for adding support for CraftTweaker in your mod.
 tags:
- - tutorial
- - minecraft
+ - mc-mod-tutorial
 ---
 
 CraftTweaker is a Minecraft mod that many modpack authors use to customize the game. CraftTweaker allows users to write scripts in ZenScript, which can access specific functions and variables exposed by CraftTweaker and the various addons that add support. This approach to tweaking the game provides modpack authors with a lot of benefits, and adding support for it in your mods can make them much more appealing to modpack authors. If your mod adds new machines or ways to craft items, or you want to add some special ways to configure your mod you should definitely consider adding support. 
