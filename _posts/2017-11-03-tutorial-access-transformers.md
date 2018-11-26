@@ -3,7 +3,7 @@ layout: post
 title: Access Transformers
 description: Access transformers allow acessing restricted fields and methods without reflection.
 tags:
- - tutorial-minecraft
+ - mc-mod-tutorial
 ---
 
 Access transformers are a fairly basic feature of Forge which allows a mod author to modify access restrictions. In simple terms, this allows you to turn a private field into a public one, or make a final field not so final. The same thing can be acomplished using reflection, however reflection can make your code ugly, and is slightly slower. This is why access transformers tend to be promoted over reflection.
