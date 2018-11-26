@@ -13,6 +13,9 @@ share:
   linkedin: false
   pinterest: false
   email: false
+  stackoverflow: false
+  instagram: false
+  lastfm: false
 
 social:
   github: darkhax
