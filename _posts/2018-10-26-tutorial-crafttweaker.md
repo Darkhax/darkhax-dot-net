@@ -3,7 +3,7 @@ layout: post
 title: CraftTweaker Support
 description: Basics for adding support for CraftTweaker in your mod.
 tags:
- - tutorials
+ - tutorial
  - minecraft
 ---
 
