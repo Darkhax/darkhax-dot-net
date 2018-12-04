@@ -1,7 +1,7 @@
 name: Dark's Site
 description: Software Developer
-url: https://darkhax-forked.github.io
-baseurl: '/jekyll-clean-dark'
+url: https://darkhax.github.io
+baseurl: '/darkhax-dot-net'
 
 author: Tyler Hancock
 copyright: 2011-2018
