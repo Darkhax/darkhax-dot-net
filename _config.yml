@@ -23,7 +23,7 @@ social:
   rss: feed.xml
 
 # Stuff to ignore
-google_analytics_key:
+google_analytics_key: "UA-51262738-1"
 yandex_metrica:
 disqus: streetturtle
 comments: false
