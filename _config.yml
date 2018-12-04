@@ -1,7 +1,7 @@
 name: Dark's Site
 description: Software Developer
-url: https://darkhax.github.io
-baseurl: '/darkhax-dot-net'
+url: http://darkhax.github.io/
+baseurl: ''
 
 author: Tyler Hancock
 copyright: 2011-2018
