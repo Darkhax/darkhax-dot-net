@@ -1,4 +1,11 @@
-# 1.13.2 Update Post
+---
+layout: post
+title: Minecraft 1.13.2 Update Info
+description: A post explaining my plans for the 1.13.2 Minecraft update.
+tags:
+ - minecraft
+---
+
 Hello everyone. As you might have heard, the Forge team released Minecraft Forge for 1.13.2 on their public files page last night. This means that our community has entered another major transition period. In this post I will be discussing how I will be handling this update, as well as sharing some of my thoughts on the update in general.
 
 For those who are newer to the Minecraft modding scene and have never dealt with an update, these are major transition periods. Many members of the community will start shifting their focus to the new 1.13.2 version. Some of the mods you are familiar with may change their mechanics, or redesign themselves in drastic ways. This change also means that mods will need to be updated to support 1.13.2, so some of your favorite mods may not be available for a while. Unfortunately, this also means that some mods may never receive the update and will be stuck on 1.12.2 indefinitely. It's not all bad news though, the update brings many new features and improvements which will help improve the quality of the game and mods in general.
