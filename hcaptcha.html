@@ -1,0 +1,41 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hCaptcha Test</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Test page for hCaptcha">
+        <meta name="keywords" content="hCaptcha,recaptcha">
+        <meta name="author" content="Darkhax">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="og:title" content="hCaptcha Test"/>
+        <meta name="og:site_name" content="hCaptcha Test"/>
+        <meta name="og:description" content="Test page for hCaptcha"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://hcaptcha.com/1/api.js" async defer></script>
+    </head>
+    <body>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 mx-auto">
+                    <br>
+                    <p>Hello,</p>
+                    <p>I am testing out hCaptcha which is an alternative to google's recaptcha service. <a href="https://www.zdnet.com/article/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/">Apparently</a> Google is going to start charging for this service, on top of all the other sketchy stuff they do with user data. CloudFlare announced they will be using hCaptcha moving forward so I am interested in how it all works. Please complete the hCaptcha challenge below to help me test their service out.</p>
+                    <p>If you're interested in testing it out on your own site, they gave me a <a href="https://hCaptcha.com/?r=05847145cc99">referral link</a>. Their docs are not super clear on how this works.</p>
+                    <br>
+                    <div class="mx-auto col-5">
+                        <div class="h-captcha" data-sitekey="19618860-0f29-4865-970f-4338323f4861"></div>
+                    </div>
+                    <br>
+                    <h2>Privacy Info</h2>
+                    <p>This site is using hCaptcha which collects some data as part of their user trust score. Please refer to their <a href="https://hcaptcha.com/privacy">Privacy Policy</a> and <a href="https://hcaptcha.com/terms">Terms of Service</a>.</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
