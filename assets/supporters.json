@@ -1,0 +1,28 @@
+{
+  "playerList": [
+    {
+      "id": "d183e5a2-a087-462a-963e-c3d7295f9ec5",
+      "name": "Darkhax",
+      "title": "Developer",
+      "data": {
+        "botanypots-head": {
+          "pot": "botanypots:lime_botany_pot",
+          "soil": "minecraft:soul_sand",
+          "crop": "wither_rose"
+        }
+      }
+    },
+    {
+      "id": "3bf32666-f9ba-4060-af02-53bdb0df38fc",
+      "name": "Jaredlll08",
+      "title": "Helper",
+      "data": {}
+    },
+    {
+      "id": "f0f76db6-0461-4151-8ba7-392d65d62ea3",
+      "name": "lclc98",
+      "title": "Helper",
+      "data": {}
+    }
+  ]
+}
